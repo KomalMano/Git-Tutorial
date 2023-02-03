@@ -1,0 +1,22 @@
+how to display front back push on github
+Vs ki settings my gy
+Files -> .git remove krna ha
+git init
+git add .
+git commit -m "first commit front+back push"
+--git branch -M main--
+git remote add origin https://github.com/KomalMano/Django-Djoser-Auth-React.git
+git push -u -f origin main
+Finally code will upload Successfully frontend and backend
+_____________________________________________________________
+
+Push
+git branch -M main
+git commit -m "testing commit front+back push"
+git branch -M main
+git push -u -f origin main
+_______________________________________________________________
+git checkout testing
+git add .
+git commit -m "testing front+back push"
+git push
