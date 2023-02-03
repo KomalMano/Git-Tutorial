@@ -15,7 +15,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Now branching time
+          Now branching time for development branch
         </a>
       </header>
     </div>
