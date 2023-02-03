@@ -15,7 +15,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Learn React after name changing
+          Now branching time
         </a>
       </header>
     </div>
